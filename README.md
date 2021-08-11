@@ -2,7 +2,7 @@
 
 I'm Nobuhito Iwata, Frontend developer(?) from <b>Saitama, Japan</b>.
 
-## GitHub stats
+## GitHub Stats
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=N-Iwata&count_private=true&show_icons=true&theme=dracula)
 
@@ -35,7 +35,7 @@ I'm Nobuhito Iwata, Frontend developer(?) from <b>Saitama, Japan</b>.
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-## 
+## Most Used Languages
 
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=N-Iwata&theme=dracula)
 

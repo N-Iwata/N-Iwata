@@ -1,12 +1,12 @@
-## Welcome to my page!
+## Welcome to my page 🙏
 
 I'm Nobuhito Iwata, Frontend developer(?) from <b>Saitama, Japan</b>.
 
-## GitHub Stats
+## GitHub Stats 👻
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=N-Iwata&count_private=true&show_icons=true&theme=dracula)
 
-## Where to find me
+## Where to find me 👺
 
 <p>
 <a href="https://github.com/N-Iwata" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
@@ -15,7 +15,7 @@ I'm Nobuhito Iwata, Frontend developer(?) from <b>Saitama, Japan</b>.
 <a href="https://zenn.dev/rpf_nob" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/Zenn-3EA8FF.svg?&style=for-the-badge&logo=Zenn&logoColor=white" /></a>
 </p>
 
-## Things I code with
+## Things I code with 💩
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -35,7 +35,7 @@ I'm Nobuhito Iwata, Frontend developer(?) from <b>Saitama, Japan</b>.
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-## Most Used Languages
+## Most Used Languages 🤡
 
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=N-Iwata&theme=dracula)
 

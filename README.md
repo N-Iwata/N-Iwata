@@ -32,8 +32,8 @@ I'm Nobuhito Iwata, Frontend developer(?) from <b>Saitama, Japan</b>.
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+<!--   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white" /> -->
+<!--   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> -->
 </p>
 
 ## Most Used Languages 🤡
